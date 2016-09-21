@@ -14,4 +14,5 @@ Completed user stories:
 Notes:
 
 Walkthrough of all user stories:
-![alt tag](ttps://github.com/wcwang07/ToDo/blob/master/ToDoWalkThrough.gif)
+
+![alt tag](https://github.com/wcwang07/ToDo/blob/master/ToDoWalkThrough.gif)
