@@ -3,7 +3,7 @@ Implementation of CodePath ToDo application
 
 This is an Android demo application for using ToDo list.
 
-Time spent: 6 hours spent in total
+Time spent: 5 hours spent in total
 
 Completed user stories:
 
@@ -14,3 +14,4 @@ Completed user stories:
 Notes:
 
 Walkthrough of all user stories:
+![alt tag](ttps://github.com/wcwang07/ToDo/blob/master/ToDoWalkThrough.gif)
